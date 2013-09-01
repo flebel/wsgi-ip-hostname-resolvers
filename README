@@ -1,0 +1,3 @@
+Two WSGI apps rewritten from Flask apps I've been using for a while to self-host
+my external IP and hostname resolvers over HTTP.
+
